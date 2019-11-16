@@ -1,5 +1,5 @@
 {
 	"table":1,
-	"source":"berkley"
-	"version":4
+	"source":"cassandra"
+	"version":5
 }
