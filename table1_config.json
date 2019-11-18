@@ -1,5 +1,5 @@
 {
 	"table":1,
-	"source":"hdfs"
-	"version":3
+	"source":"berkley"
+	"version":4
 }
