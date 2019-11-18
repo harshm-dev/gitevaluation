@@ -1,5 +1,5 @@
 {
 	"table":1,
-	"source":"redis"
-	"version":7
+	"source":"es"
+	"version":8
 }
